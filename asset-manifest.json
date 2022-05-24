@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://shrikantmergu143.github.io/csb-26bk1u/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://shrikantmergu143.github.io/csb-26bk1u/static/js/main.a35c5a30.chunk.js",
-    "main.js.map": "https://shrikantmergu143.github.io/csb-26bk1u/static/js/main.a35c5a30.chunk.js.map",
+    "main.js": "https://shrikantmergu143.github.io/csb-26bk1u/static/js/main.4eabcd01.chunk.js",
+    "main.js.map": "https://shrikantmergu143.github.io/csb-26bk1u/static/js/main.4eabcd01.chunk.js.map",
     "runtime-main.js": "https://shrikantmergu143.github.io/csb-26bk1u/static/js/runtime-main.8f8e468f.js",
     "runtime-main.js.map": "https://shrikantmergu143.github.io/csb-26bk1u/static/js/runtime-main.8f8e468f.js.map",
-    "static/js/2.37252ef0.chunk.js": "https://shrikantmergu143.github.io/csb-26bk1u/static/js/2.37252ef0.chunk.js",
-    "static/js/2.37252ef0.chunk.js.map": "https://shrikantmergu143.github.io/csb-26bk1u/static/js/2.37252ef0.chunk.js.map",
+    "static/js/2.10b834ea.chunk.js": "https://shrikantmergu143.github.io/csb-26bk1u/static/js/2.10b834ea.chunk.js",
+    "static/js/2.10b834ea.chunk.js.map": "https://shrikantmergu143.github.io/csb-26bk1u/static/js/2.10b834ea.chunk.js.map",
     "index.html": "https://shrikantmergu143.github.io/csb-26bk1u/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://shrikantmergu143.github.io/csb-26bk1u/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.37252ef0.chunk.js.LICENSE.txt": "https://shrikantmergu143.github.io/csb-26bk1u/static/js/2.37252ef0.chunk.js.LICENSE.txt"
+    "static/js/2.10b834ea.chunk.js.LICENSE.txt": "https://shrikantmergu143.github.io/csb-26bk1u/static/js/2.10b834ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8f8e468f.js",
-    "static/js/2.37252ef0.chunk.js",
+    "static/js/2.10b834ea.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.a35c5a30.chunk.js"
+    "static/js/main.4eabcd01.chunk.js"
   ]
 }

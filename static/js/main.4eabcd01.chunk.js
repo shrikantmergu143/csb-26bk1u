@@ -1,0 +1,2 @@
+(this.webpackJsonpchathubapp=this.webpackJsonpchathubapp||[]).push([[0],{24:function(e,t,c){},30:function(e,t,c){"use strict";c.r(t);var n=c(0),s=c(11),r=(c(24),c(41)),i=c(1);function a(){return Object(i.jsxs)("div",{className:"App",children:[Object(i.jsx)(r.a,{children:" zhi"}),Object(i.jsx)("p",{children:"hi demoasd"})]})}var h=document.getElementById("root");Object(s.createRoot)(h).render(Object(i.jsx)(n.StrictMode,{children:Object(i.jsx)(a,{})}))}},[[30,1,2]]]);
+//# sourceMappingURL=main.4eabcd01.chunk.js.map
