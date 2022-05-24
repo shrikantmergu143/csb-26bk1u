@@ -1,0 +1,2 @@
+(this.webpackJsonpchathubapp=this.webpackJsonpchathubapp||[]).push([[0],{24:function(t,e,c){},30:function(t,e,c){"use strict";c.r(e);var n=c(0),a=c(11),r=(c(24),c(41)),s=c(1);function i(){return Object(s.jsx)("div",{className:"App",children:Object(s.jsx)(r.a,{children:"Dada"})})}var o=document.getElementById("root");Object(a.createRoot)(o).render(Object(s.jsx)(n.StrictMode,{children:Object(s.jsx)(i,{})}))}},[[30,1,2]]]);
+//# sourceMappingURL=main.a35c5a30.chunk.js.map
